@@ -4,6 +4,7 @@
 		<id>ruleknowledge</id>
 		<title>Rule Knowledge extension</title>
 		<version>1.6.0</version>
+		<patchlevel>1</patchlevel>
 		<vendor>ontoprise GmbH</vendor>
 		<maintainer>ontoprise GmbH</maintainer>
 		<instdir>extensions/SemanticRules</instdir>
